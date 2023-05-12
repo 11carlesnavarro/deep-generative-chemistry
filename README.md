@@ -24,6 +24,10 @@ A repository of update in generative chemistry with deep learning. Those efforts
   Thomas Blaschke (2020) \
   This application note introduces a ready-to-use tool for de novo design in drug discovery, useful for addressing exploration or exploitation issues in chemical space navigation. By releasing the code.
   
+  [Randomized SMILES Strings Improve the Quality of Molecular Generative Models](https://chemrxiv.org/engage/chemrxiv/article-details/60c743b14c8919d703ad26a1) \
+  Josep Arús-Pous (2019) \
+  This study benchmarks Recurrent Neural Networks (RNNs) for creating chemical spaces using SMILES representations and recurrent cell types. It found that LSTM models trained with 1 million randomized SMILES generate larger, more accurate chemical spaces. When trained on ChEMBL molecules, these models better represent drug-like chemical spaces, producing twice the unique molecules compared to canonical SMILES models.
+
 ### 2. Reviews <a name='reviews'>
   [Generative Models as an Emerging Paradigm in the Chemical Sciences](https://pubs.acs.org/doi/10.1021/jacs.2c13467)\
   Dylan M. Anstine and Olexandr Isayev \
