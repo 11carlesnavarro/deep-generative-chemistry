@@ -20,6 +20,10 @@ A repository of update in generative chemistry with deep learning. Those efforts
  Vendy Fialková et al. (2021) \
   LibINVENT, a novel in silico tool, is introduced for de novo drug design. It generates chemical libraries with shared cores, maximizing desirable properties. Users can specify chemical reactions for library creation. The resulting compounds are similar, have desirable properties, and can be synthesized under similar conditions. The LibINVENT code is freely available online.
   
+  [REINVENT 2.0 – an AI Tool for De Novo Drug Design](https://chemrxiv.org/engage/chemrxiv/article-details/60c74f75bdbb89eaf7a39d8a) \
+  Thomas Blaschke (2020) \
+  This application note introduces a ready-to-use tool for de novo design in drug discovery, useful for addressing exploration or exploitation issues in chemical space navigation. By releasing the code.
+  
 ### 2. Reviews <a name='reviews'>
   [Generative Models as an Emerging Paradigm in the Chemical Sciences](https://pubs.acs.org/doi/10.1021/jacs.2c13467)\
   Dylan M. Anstine and Olexandr Isayev \
