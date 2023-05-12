@@ -1,2 +1,5 @@
-# deep-generative-chemistry
-A repository of update in molecular dynamics field by recent progress in machine learning and deep learning. Those efforts are cast into the following categories:
+# Deep Generative Chemistry 
+A repository of update in generative chemistry with deep learning. Those efforts are cast into the following categories:
+
+1. [3D Molecular Generation](#3DGen)  
+2. [Recent advances in Deep Diffusion Probabilistic Models ](#diffusion)
