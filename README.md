@@ -15,7 +15,7 @@ A repository of update in generative chemistry with deep learning. Those efforts
   Alex Morehead et al (2023) \
   This work proposes GCDM, a geometry-complete diffusion model that achieves new state-of-the-art results for 3D molecule diffusion generation and optimization by leveraging the representation learning strengths offered by GNNs that perform geometry-complete message-passing. 
 
-### 1. Molecular Generation in 1D (string-based) <a name='1DGen'>
+### 2. Molecular Generation in 1D (string-based) <a name='1DGen'></a>
  [LibINVENT: Reaction Based Generative Scaffold Decoration for in silico Library Design](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/611f467d8a6faa8c529c5407/original/lib-invent-reaction-based-generative-scaffold-decoration-for-in-silico-library-design.pdf) \
  Vendy Fialková et al. (2021) \
   LibINVENT, a novel in silico tool, is introduced for de novo drug design. It generates chemical libraries with shared cores, maximizing desirable properties. Users can specify chemical reactions for library creation. The resulting compounds are similar, have desirable properties, and can be synthesized under similar conditions. The LibINVENT code is freely available online.
@@ -28,7 +28,7 @@ A repository of update in generative chemistry with deep learning. Those efforts
   Josep Arús-Pous (2019) \
   This study benchmarks Recurrent Neural Networks (RNNs) for creating chemical spaces using SMILES representations and recurrent cell types. It found that LSTM models trained with 1 million randomized SMILES generate larger, more accurate chemical spaces. When trained on ChEMBL molecules, these models better represent drug-like chemical spaces, producing twice the unique molecules compared to canonical SMILES models.
 
-### 2. Reviews <a name='reviews'>
+### 3. Reviews <a name='reviews'></a>
   [Generative Models as an Emerging Paradigm in the Chemical Sciences](https://pubs.acs.org/doi/10.1021/jacs.2c13467)\
   Dylan M. Anstine and Olexandr Isayev \
   (2023) \
