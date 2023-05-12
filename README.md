@@ -12,7 +12,7 @@ A repository of update in generative chemistry with deep learning. Those efforts
   
   [Geometry-Complete Diffusion for 3D Molecule Generation](https://arxiv.org/pdf/2302.04313.pdf) \
   Alex Morehead et al (2023) \
-  This work proposes GCDM, a geometry-complete diffusion model that achieves new state-of-the-art results for 3D molecule diffusion generation and optimization by leveraging the representation learning strengths offered by GNNs that perform geometry-complete message-passing. \
+  This work proposes GCDM, a geometry-complete diffusion model that achieves new state-of-the-art results for 3D molecule diffusion generation and optimization by leveraging the representation learning strengths offered by GNNs that perform geometry-complete message-passing. 
   
 ### 2. Reviews <a name='reviews'>
   [Generative Models as an Emerging Paradigm in the Chemical Sciences](https://pubs.acs.org/doi/10.1021/jacs.2c13467)\
