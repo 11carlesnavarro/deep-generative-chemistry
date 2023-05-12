@@ -26,6 +26,6 @@ A repository of update in generative chemistry with deep learning. Those efforts
   (2023) \
   In this paper, the authors overview and critically analyze popular generative algorithms like generative adversarial networks, variational autoencoders, flow, and diffusion models. 
 
-[Generative models for molecular discovery: Recent advances and challenges] (https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcms.1608) \
+[Generative models for molecular discovery: Recent advances and challenges](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcms.1608) \
   Camille Bilodeau et al. (2022) \
   This text reviews the application of generative modeling in molecular design, a promising alternative to traditional, labor-intensive methods. It covers the choices required for generative model development and training, including various molecular representations and typical neural network architectures. It also explores different problem statements for molecular discovery applications and their corresponding benchmarks. Lastly, it discusses the integration of generative models into experimental workflows.
