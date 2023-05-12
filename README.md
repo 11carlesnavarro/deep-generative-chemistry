@@ -9,6 +9,6 @@ A repository of update in generative chemistry with deep learning. Those efforts
   Emiel Hoogeboom et al (2022) \
   This work introduces a diffusion model for molecule generation in 3D that is equivariant to Euclidean transformations. They generate both atom coordinates and element types. First paper introducing full molecule generation with Diffusion Models.
   
-  [Geometry-Complete Diffusion for 3D Molecule Generation](https://arxiv.org/pdf/2302.04313.pdf)
-  Alex Morehead et al (2023)
+  [Geometry-Complete Diffusion for 3D Molecule Generation](https://arxiv.org/pdf/2302.04313.pdf) \
+  Alex Morehead et al (2023) \
   This work proposes GCDM, a geometry-complete diffusion model that achieves new state-of-the-art results for 3D molecule diffusion generation and optimization by leveraging the representation learning strengths offered by GNNs that perform geometry-complete message-passing.
