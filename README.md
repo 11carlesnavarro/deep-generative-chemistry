@@ -36,4 +36,8 @@ A repository of update in generative chemistry with deep learning. Those efforts
 
 [Generative models for molecular discovery: Recent advances and challenges](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcms.1608) \
   Camille Bilodeau et al. (2022) \
-  This text reviews the application of generative modeling in molecular design, a promising alternative to traditional, labor-intensive methods. It covers the choices required for generative model development and training, including various molecular representations and typical neural network architectures. It also explores different problem statements for molecular discovery applications and their corresponding benchmarks. Lastly, it discusses the integration of generative models into experimental workflows.
+  This text reviews the application of generative modeling in molecular design, a promising alternative to traditional, labor-intensive methods. It covers the choices required for generative model development and training, including various molecular representations and typical neural network architectures. It also explores different problem statements for molecular discovery applications and their corresponding benchmarks. Lastly, it discusses the integration of generative models into experimental workflows. 
+  
+[A Survey on Graph Diffusion Models: Generative AI in Science for Molecule, Protein and Material](https://arxiv.org/pdf/2304.01565.pdf) \
+Mengchun Zhang et al. (2023) \
+This work surveys the use of graph diffusion models, a cutting-edge generative modeling method. It provides a brief overview of other generative modeling methods applied to graphs and elucidates the mechanisms of various forms of diffusion models. It explores their applications, especially in the generation of molecules, proteins, and materials design in the realm of AI-generated scientific content. Furthermore, it discusses evaluation methods and the existing challenges in the graph domain.
