@@ -41,3 +41,8 @@ A repository of update in generative chemistry with deep learning. Those efforts
 [A Survey on Graph Diffusion Models: Generative AI in Science for Molecule, Protein and Material](https://arxiv.org/pdf/2304.01565.pdf) \
 Mengchun Zhang et al. (2023) \
 This work surveys the use of graph diffusion models, a cutting-edge generative modeling method. It provides a brief overview of other generative modeling methods applied to graphs and elucidates the mechanisms of various forms of diffusion models. It explores their applications, especially in the generation of molecules, proteins, and materials design in the realm of AI-generated scientific content. Furthermore, it discusses evaluation methods and the existing challenges in the graph domain.
+
+### 4. Recent Advances in Deep Diffusion Probabilistic Models <a name='diffusion'></a>
+[One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale](https://arxiv.org/pdf/2303.06555.pdf) \
+Fan Bao et al. (2023) \
+The paper introduces UniDiffuser, a unified diffusion framework for fitting all distributions related to multi-modal data. The model predicts noise in perturbed data across different modalities, learning all distributions simultaneously with minimal modifications to the original diffusion model. UniDiffuser, parameterized by a transformer, is applied to large-scale paired image-text data, enabling various generation tasks by setting appropriate timesteps, without extra overhead. The model's performance, producing perceptually realistic samples and superior quantitative results, is not only better than existing general-purpose models but also comparable to specialized models like Stable Diffusion and DALL·E 2.
