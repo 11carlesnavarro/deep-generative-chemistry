@@ -14,6 +14,10 @@ A repository of update in generative chemistry with deep learning. Those efforts
   [Geometry-Complete Diffusion for 3D Molecule Generation](https://arxiv.org/pdf/2302.04313.pdf) \
   Alex Morehead et al (2023) \
   This work proposes GCDM, a geometry-complete diffusion model that achieves new state-of-the-art results for 3D molecule diffusion generation and optimization by leveraging the representation learning strengths offered by GNNs that perform geometry-complete message-passing. 
+  
+  [Geometric Latent Diffusion Models for 3D Molecule Generation](https://arxiv.org/pdf/2305.01140.pdf)
+  Minkai Xu et al (2023)
+  This paper introduces Geometric Latent Diffusion Models (GEOLDM), the first latent diffusion model for 3D molecular geometry. GEOLDM uses autoencoders to encode structures into continuous latent codes, while the diffusion models operate in the latent space. The model captures critical roto-translational equivariance constraints of 3D molecular geometries through a point-structured latent space. GEOLDM shows improved performance in multiple molecule generation benchmarks and allows for more controllable generation due to the latent modeling.
 
 ### 2. Molecular Generation in 1D (string-based) <a name='1DGen'></a>
  [LibINVENT: Reaction Based Generative Scaffold Decoration for in silico Library Design](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/611f467d8a6faa8c529c5407/original/lib-invent-reaction-based-generative-scaffold-decoration-for-in-silico-library-design.pdf) \
