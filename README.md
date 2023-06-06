@@ -24,6 +24,10 @@ A repository of update in generative chemistry with deep learning. Those efforts
 Xingang Peng et al. (2023)
 This research highlights the issue of atom-bond inconsistency in 3D molecule generation, a problem that occurs when atoms are generated without considering potential bonds, resulting in unrealistic 3D molecules. To address this, the authors propose MolDiff, a new diffusion model capable of simultaneously generating atoms and bonds, thereby maintaining consistency by explicitly modeling their interdependence. The model was evaluated based on both geometry and chemical properties, and it significantly outperformed previous approaches, tripling the success rate and yielding molecules of markedly higher quality.
 
+[Learning Joint 2D & 3D Diffusion Models for Complete Molecule Generation](https://arxiv.org/pdf/2305.12347.pdf) \
+Han Huang et al. (2023) \
+The paper proposes a novel joint 2D and 3D diffusion model (JODO) to generate complete molecular structures, a significant step for drug discovery and material science. Current models are limited as they only focus on either 2D bonding graphs or 3D geometries, but JODO is designed to model both in tandem. This model, using a Diffusion Graph Transformer, is capable of correlating molecular graphs and geometries, processing node and edge representations, and updating scalar features and geometric vectors. It's also adaptable for inverse molecular design targeting specific quantum properties. The model was evaluated on the QM9 and GEOM-Drugs datasets, where it significantly outperformed baseline models.
+
 ### 2. Molecular Generation in 1D (string-based) <a name='1DGen'></a>
  [LibINVENT: Reaction Based Generative Scaffold Decoration for in silico Library Design](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/611f467d8a6faa8c529c5407/original/lib-invent-reaction-based-generative-scaffold-decoration-for-in-silico-library-design.pdf) \
  Vendy Fialková et al. (2021) \
